@@ -132,8 +132,6 @@ FoodBridge is a smart web-based platform designed to reduce food waste by connec
 - Admin dashboard
 
 ### live link
-[
+[https://ankita1930.github.io/Food-Management-System/]
 
----
 
-Live site [https://ankita1930.github.io/Food-Management-System/]
